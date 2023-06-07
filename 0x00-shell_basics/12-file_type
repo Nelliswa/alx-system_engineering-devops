@@ -1,2 +1,4 @@
 #!/bin/bash
-file/tmp/iamafile
+echo "" >> "regular file"
+echo "" >> "Directory file"
+echo "" >> "executable file"
