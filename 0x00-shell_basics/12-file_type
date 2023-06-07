@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "" >> "regular file"
-echo "" >> "Directory file"
 echo "" >> "executable file"
