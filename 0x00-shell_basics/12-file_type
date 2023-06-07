@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "" >> "executable file"
+echo "" >> "executable/tmp/iamafile"
