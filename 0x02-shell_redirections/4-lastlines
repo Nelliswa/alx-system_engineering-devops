@@ -1,2 +1,2 @@
 #!/bin/bash
-tale -10 /etc/passwd
+tale -10/etc/passwd
